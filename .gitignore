@@ -37,3 +37,10 @@ tmp/
 
 # Local printer credentials
 /bambu-printers.json
+
+# Generated CAD outputs
+*.step
+*.stp
+*.stl
+*.zip
+models/**/output/
